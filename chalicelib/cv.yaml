@@ -1,0 +1,80 @@
+---
+find-me:
+  - github.com/bishwin
+  - linkedin.com/in/bishwin
+skills:
+  - Linux
+  - Docker
+  - Ansible
+experience:
+  - 
+    company: Solirius
+    role: Software engineer
+    date: Dec 2016 - May 2019
+    projects:
+      -
+        name: Probate
+        org: HMCTS
+        date: "Aug 2018 - May 2019"
+        desc: "Based at the Ministry of Justice, the project involved the digitalisation of probate grant application. Initially placed on the project as holiday cover for a colleague, but due to my high performance, the delivery manager requested that I be placed as a permanent member. I worked across the project's microservices as a fullstack and devops engineer."
+        tech:
+          - java8
+          - springboot
+          - azure
+          - Jenkins
+          - Terraform
+          - Docker
+          - Node.js
+      -
+        name: Continuous Online Hearing
+        org: HMCTS
+        date: "Mar 2018 - May 2018"
+        desc: "Part of the reform of government services. I was a key member of a small team focused on developing the back-end of the continuous resolution project."
+        tech:
+          - java8
+          - springboot
+          - REST
+      -
+        name: Slack application for mood tracking
+        org: Solirius
+        date: "Mar 2018 - Apr 2018"
+        desc: "A way to track the morale of small development teams. I learned and wrote the Terraform scripts for the infrastructure and helped develop the project in Spring Boot and Java."
+        tech:
+          - java8
+          - springboot
+          - REST
+          - Terraform
+          - AWS
+      -
+        name: Time-tracking software
+        org: Solirius
+        date: "Mar 2017 - Apr 2018"
+        desc: "Bespoke time-tracking software developed for the management of Solirius employees and contractors as well as external customers. I took over the project as lead developer and maintained and improved the software. This involved liaising with external stakeholders and product owners to identify areas for improvement and training graduate developers by assigning tasks on the project."
+        tech:
+          - Python
+          - Django
+          - Html
+          - CSS
+          - AWS
+          - Javascript
+          - Bootstrap
+          - Jquery
+      -
+        name: Strategic Partner Gateway
+        org: Solirius
+        date: "Dec 2016 - Nov 2017"
+        desc: "A SOAP/XML messaging service that allowed privatised parole offices to communicate with the government parole database. I supported the lead developer in key project deliverables."
+        tech:
+          - Java
+          - Spring
+          - Apache Camel Roots
+          - SOAP
+          - XML
+          - ActiveMQ
+education:
+  -
+    institution: University of Westminster
+    course: Software Engineering
+    level: Bsc
+    grade: First
+    date: 2013 - 2016
